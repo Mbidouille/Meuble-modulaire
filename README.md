@@ -12,6 +12,7 @@ ce choix à été fait pour augmenter au maximum la matière pour augmenter la s
 Pour la visserie, je vous conseille Bricovis https://www.bricovis.fr 
 - Contre-Écrou Hm M8 Acier Zingué Blanc DIN 439 https://www.bricovis.fr/produit-ecrou-hm-acier-zingue-blanc-din-439-ecrhmzn/#ECRHM08ZN
 - TFHC M8X30 Acier 10.9 Zingué Blanc EF DIN 7991 https://www.bricovis.fr/produit-vis-a-tete-fraisee-hexagonale-creuse-filetage-total-acier-10-9-zingue-blanc-din-7991-tfhca10znef/#TFHC08/030A10ZNEF 
+
 Perso j'en ai commandé 200 de chaque pour etre tranquille.
 
 
