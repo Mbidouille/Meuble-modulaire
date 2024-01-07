@@ -1,7 +1,5 @@
 # Meuble-modulaire
 
-Ces connecteurs sont compatibles avec les Playwood. 
-
 Visserie à utiliser : 
 - Vis tete fraisée M8 X 30mm
 - Ecrou M8 Hm (4mm d'épaisseur) 
